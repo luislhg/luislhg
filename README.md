@@ -51,6 +51,7 @@ Open-source projects, contributing to the .NET community, and creating education
 
 - Developing and aiding side projects on [GitHub](www.github.com/luislhg) 💻
 - Sharing updates on [LinkedIn](www.linkedin.com/in/luislhg) 💼
+- Appreciate some of my effort and want to donate? Awesome! [BuyMeACoffee](https://www.buymeacoffee.com/luislhg)
 
 ---
 
