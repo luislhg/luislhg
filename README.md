@@ -12,7 +12,7 @@ Currently, I'm studying and exploring the potential of AI, Blazor, MAUI and .NET
 
 ## 📚 Currently Studying
 
-- .NET 8
+- .NET 9
 - Blazor
 - DevOps
 - MAUI
@@ -23,7 +23,9 @@ Currently, I'm studying and exploring the potential of AI, Blazor, MAUI and .NET
 
 ## 🚀 Currently Working
 
-Stay tuned! I am working on some interesting projects, combining the skills I'm currently studying with my experience. I'll be sharing them here on GitHub soon.
+- https://github.com/luislhg/brightextensions _(Extensions to assist developers using Visual Studio 2022+)_
+
+Stay tuned! I am working on more interesting projects, combining the skills I'm currently studying with my experience. I'll be sharing them here on GitHub soon.
 
 ---
 
@@ -35,7 +37,7 @@ public class Skills
     public static string[] Languages => { "C#", "C++", "SQL", "JavaScript", "Python" };
     public static string[] Frameworks => { ".NET", "WPF", "Entity Framework", "ASP.NET", "Unity", "MAUI" };
     public static string[] Tools => { "Visual Studio", "VS Code", "Azure", "Azure DevOps", "SQL Server", "Git", "Docker" };
-    public static string[] Experience => { "Virtual and Augmented Reality", "Industrial Automation", "Home Automation", "On Demand Desktop Tools" };
+    public static string[] Experience => { "Virtual and Augmented Reality", "Industrial Automation", "Home Automation", "Custom and Unique Desktop Tools" };
 }
 ```
 
