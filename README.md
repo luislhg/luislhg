@@ -2,13 +2,13 @@
 
 ---
 
-### 💻 C# Software Engineer | 📚 Technology Enthusiast | 👨‍🏫 Consultant & Teacher
+### 💻 C# Software Engineer | 📚 Technology Enthusiast | 👨‍🏫 Consultant & Instructor
 
 ---
 
 I'm a C# Software Engineer with an enthusiastic drive for technology. I'm passionate about making technology more accessible, creating projects to help and elevate people. My work has touched various areas, including Virtual and Augmented Reality, Industrial Automation, and Home Automation. I'm fueled by pushing the boundaries of what technology can do and its impact on our lives.
 
-Currently, I'm studying and exploring the potential of AI, Blazor, MAUI and .NET 8. These emerging technologies hold the future, and I'm thrilled to be part of that journey!
+Currently, I'm studying and exploring the potential of AI, Blazor, MAUI, WPF and .NET 9. These emerging technologies hold the future, and I'm thrilled to be part of that journey!
 
 ## 📚 Currently Studying
 
