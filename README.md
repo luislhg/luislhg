@@ -12,10 +12,11 @@ Currently, I'm studying and exploring the potential of AI, Blazor, MAUI, WPF and
 
 ## 📚 Currently Studying
 
-- .NET 9
-- Blazor
+- .NET 10
 - DevOps
+- Creating Extensions for VS
 - MAUI
+- Blazor
 - Machine Learning
 
 
